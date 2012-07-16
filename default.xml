@@ -6,6 +6,9 @@
     <remote name="rootz"
             fetch="git://github.com/RootzBoat/" />
 
+    <remote name="github"
+            fetch="git://github.com/" /> 
+
     <default remote="aosp" sync-j="4" />
 
     <project path="build" name="android_build" remote="rootz" revision="jb">
@@ -248,6 +251,7 @@
     <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/Stk" name="platform/packages/apps/Stk" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
+    <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
     <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
@@ -303,6 +307,7 @@
     <project path="system/media" name="platform/system/media" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="system/netd" name="platform/system/netd" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="system/security" name="platform/system/security" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
+    <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="master" />
     <project path="system/vold" name="platform/system/vold" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="vendor/RootzBoat" name="android_vendor_RootzBoat" remote="rootz" revision="jb"/>
     <project path="vendor/samsung" name="android_vendor_samsung" remote="rootz" revision="jb"/>
