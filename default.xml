@@ -228,7 +228,7 @@
     <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="paul" revision="master"/>
     <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="paul" revision="master"/>
-    <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
+    <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="paul" revision="master"/>
     <project path="packages/apps/Camera" name="platform/packages/apps/Camera" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
