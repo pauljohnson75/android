@@ -1,2 +1,2 @@
-$ repo init -u https://github.com/RootzBoat/android.git -b jb
+$ repo init -u https://github.com/pauljohnson75/android.git -b jb
 $ repo sync
