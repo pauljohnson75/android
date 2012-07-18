@@ -223,6 +223,7 @@
     <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
+    <project path="packages/apps/AppWidgetPicker" name="android_packages_apps_AppWidgetPicker" remote="paul" revision="master"/>
     <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/Browser" name="platform/packages/apps/Browser" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
