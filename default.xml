@@ -6,6 +6,9 @@
     <remote name="rootz"
             fetch="git://github.com/RootzBoat/" />
 
+    <remote name="paul"
+            fetch="git://github.com/pauljohnson75/" />
+            
     <remote name="github"
             fetch="git://github.com/" /> 
 
@@ -309,6 +312,6 @@
     <project path="system/security" name="platform/system/security" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <!--<project path="system/su" name="ChainsDD/su-binary" remote="github" revision="master" />-->
     <project path="system/vold" name="platform/system/vold" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
-    <project path="vendor/RootzBoat" name="android_vendor_RootzBoat" remote="rootz" revision="jb"/>
+    <project path="vendor/Gelee" name="android_vendor_Gelee" remote="paul" revision="master"/>
     <project path="vendor/samsung" name="android_vendor_samsung" remote="rootz" revision="jb"/>
 </manifest>
