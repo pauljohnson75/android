@@ -242,7 +242,7 @@
     <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/Launcher2" name="android_packages_apps_Launcher2" remote="paul" revision="jb"/>
-    <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
+    <project path="packages/apps/LegacyCamera" name="android_packages_apps_LegacyCamera" remote="paul" revision="master"/>
     <project path="packages/apps/Mms" name="platform/packages/apps/Mms" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
