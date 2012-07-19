@@ -250,7 +250,7 @@
     <project path="packages/apps/Protips" name="platform/packages/apps/Protips" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
-    <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="rootz" revision="jb"/>
+    <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="paul" revision="jb"/>
     <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
