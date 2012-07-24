@@ -259,6 +259,7 @@
     <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
+    <project path="packages/apps/Wallpapers" name="android_packages_apps_Wallpapers" remote="paul" revision="master"/>
     <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
     <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="paul" revision="master"/>
     <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" remote="aosp" revision="refs/tags/android-4.1.1_r1"/>
